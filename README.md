@@ -10,7 +10,7 @@
  
 2.  [Libraries Used](#Libraries-Used)
 3.  [Workflow](#Workflow)
-4.  [Screesnshots](#Screesnshots)
+4.  [Screenshots](#Screenshots)
 5.  [Challenges](#Challenges)
 
 ## Overview
