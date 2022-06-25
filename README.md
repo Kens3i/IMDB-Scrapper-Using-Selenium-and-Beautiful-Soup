@@ -47,10 +47,10 @@ Finally the following workflow is for scraping the data.
 
 ## Screenshots
 
-- Selecting start date, end date and the stock ticker symbols.
+- Automation using Selenium
 ![](https://github.com/Kens3i/IMDB-Scrapper-Using-Selenium-and-Beautiful-Soup/blob/main/Gifs/imdb%20scrapper%20gif%201.gif?raw=true)
 
-- Displaying the stock market indicators.
+- Result After Scrapping Using Beautiful Soup
 ![](https://github.com/Kens3i/IMDB-Scrapper-Using-Selenium-and-Beautiful-Soup/blob/main/Gifs/imdb%20scrapper%20gif%202.gif?raw=true)
 
 
