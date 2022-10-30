@@ -15,7 +15,7 @@
 
 ## Overview
 
-This program has 2 parts. The first part is a automation bot made with the help of Selenium which opens a Google Chrome tab and navigates to the IMDB home page. Then it goes to the advanced search and selects different parameters to filter some movies. Then in the 2nd part I developed a web-scrapper which scraps the data of those movies like the title, the year in which it got released, the rating of the movie, etc.
+This program has 2 parts. The first part is an automation bot made with the help of Selenium which opens a Google Chrome tab and navigates to the IMDB home page. Then it goes to the advanced search and selects different parameters to filter some movies. Then in the 2nd part, I developed a web scrapper which scraps the data of those movies like the title, the year in which it got released, the rating of the movie, etc.
 
 
 ## Libraries-Used
