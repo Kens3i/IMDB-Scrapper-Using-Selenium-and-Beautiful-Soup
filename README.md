@@ -49,12 +49,12 @@ Finally the following workflow is for scraping the data.
 
 - Automation using Selenium
 
-![](https://github.com/Kens3i/IMDB-Scrapper-Using-Selenium-and-Beautiful-Soup/blob/main/Gifs/imdb%20scrapper%20gif%201.gif?raw=true)
+![](https://media.giphy.com/media/ZNs7s5CKUN5XpFTmY4/giphy.gif)
 
 
 - Result After Scrapping Using Beautiful Soup
 
-![](https://github.com/Kens3i/IMDB-Scrapper-Using-Selenium-and-Beautiful-Soup/blob/main/Gifs/imdb%20scrapper%20gif%202.gif?raw=true)
+![](https://media.giphy.com/media/CkAF8XZ4LRxqp3la1f/giphy.gif)
 
 
 ## Challenges
